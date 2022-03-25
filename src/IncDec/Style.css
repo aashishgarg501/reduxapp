@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-div {
+  width: 100%;
+  /* background-color: yellow; */
+  text-align: center;
+  margin-top: 15%;
+}
+
+h1 {
+  color: rgba(78, 74, 74, 0.726);
+}
+p {
+  color: rgba(78, 74, 74, 0.726);
+}
+.s-div {
+  margin: 10px;
+  background-color: rgba(207, 201, 201, 0.726);
+  width: 130px;
+  height: 8vh;
+  margin-left: 42%;
+}
+a {
+  padding: 3px 10px;
+  margin: 1px;
+  text-decoration: none;
+  color: rgb(62, 62, 170);
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+input {
+  text-align: center;
+  width: 50px;
+  height: 6vh;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+}
